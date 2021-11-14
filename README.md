@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Matin Zadeh Dolatabad</h1>
 <h3 align="center">I am a focused and hardworking computer engineer with 4+ years of experience in software development, Android, and Cross-Platform Mobile Development. I'm also considerably interested in DevOps and Infrastructure Automation. Teamwork, fixing bugs, and solving problems are my notable strengths. To be more specific, my quick-learning ability is what makes me accomplish tasks most people struggle with.</h3>
 
-<p align="left">  <img src="https://komarev.com/ghpvc/?username=matinzd&label=Profile%20views&color=0e75b6&style=flat" alt="matinzd" />  <a href="https://twitter.com/matinzd" target="blank"><img src="https://img.shields.io/twitter/follow/matinzd?logo=twitter&style=for-the-badge" alt="matinzd" /></a> </p>
 
 - 📝 I regularly write articles on [matinzd.dev](matinzd.dev)
 
 - 📫 How to reach me **me@matinzd.dev**
 
 <h3 align="center">Connect with me</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/matinzd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matinzd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/matinzd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matinzd" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7978635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7978635" height="30" width="40" /></a>
