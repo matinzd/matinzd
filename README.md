@@ -25,6 +25,6 @@
 <details align="center">
     <p>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=matinzd&show_icons=true&theme=dracula"/> 
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matinzd&layout=compact&theme=dracula"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matinzd&theme=dracula"/>
     </p>
 </details>
