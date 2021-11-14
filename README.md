@@ -23,6 +23,12 @@
 <div align="center">
     <p>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=matinzd&show_icons=true&theme=dracula"/> 
+    </p>
+</div>
+
+
+<div align="center">
+    <p>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matinzd&layout=compact&theme=dracula"/>
     </p>
 </div>
