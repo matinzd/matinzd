@@ -2,7 +2,7 @@
 <h3 align="center">I am a focused and hardworking computer engineer with 4+ years of experience in software development, Android, and Cross-Platform Mobile Development. I'm also considerably interested in DevOps and Infrastructure Automation. Teamwork, fixing bugs, and solving problems are my notable strengths. To be more specific, my quick-learning ability is what makes me accomplish tasks most people struggle with.</h3>
 
 
-- 📝 I regularly write articles on [matinzd.dev](matinzd.dev)
+- 📝 My personal website [matinzd.dev](https://matinzd.dev)
 
 - 📫 How to reach me **me@matinzd.dev**
 
