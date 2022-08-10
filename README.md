@@ -20,15 +20,7 @@
 </div>
 
 
-<div align="center">
-    <p>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=matinzd&show_icons=true&theme=dracula"/> 
-    </p>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matinzd&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="github stats for matinzd" width="50%"/>
+</p>
 
-
-<div align="center">
-    <p>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matinzd&layout=compact&theme=dracula"/>
-    </p>
-</div>
