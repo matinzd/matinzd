@@ -2,7 +2,7 @@
 My name is Matin and I work as a full-time Mobile Application Engineer.
 
 ## My summary
-I have experience in maintaining mobile apps for iOS and Android. I'm interested in both high-level and low-level programming using Rust and C++. I'm eager to learn and take on new challenges. In my free time, I enjoy reading, listening to music, and helping with open-source projects.
+I have a strong background in maintaining mobile applications for both iOS and Android platforms and maintain some of my open source projects/libraries. In addition to my experience with high-level programming languages, I am also deeply interested in low-level technologies and robotics. I am highly motivated to expand my skills and knowledge in these areas and eager to take on new challenges in the field. In my spare time, I read books, play ping pong and listen to music.
 
 ## Projects
 Here are some of the projects that I am currently maintaining:
