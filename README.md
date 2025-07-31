@@ -9,7 +9,7 @@ Here are some of the projects that I am currently maintaining:
 
 - [Lottie React Native](https://github.com/lottie-react-native/lottie-react-native)
 - [React Native Health Connect](https://github.com/matinzd/react-native-health-connect)
-- [Rozenite Preview – React Native Devtools Plugin built with Rozenite](https://github.com/matinzd/react-native-health-connect)
+- [Rozenite Preview – React Native Devtools Plugin built with Rozenite](https://github.com/matinzd/rozenite-preview)
 
 ## Contact me
 
